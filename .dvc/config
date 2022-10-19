@@ -1,4 +1,4 @@
 [core]
     remote = storage
 ['remote "storage"']
-    url = s3://triton-repository/data/
+    url = s3://dereks-test/data/
